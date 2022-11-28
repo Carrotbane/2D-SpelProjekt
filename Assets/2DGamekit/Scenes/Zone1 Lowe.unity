@@ -21892,6 +21892,11 @@ PrefabInstance:
       propertyPath: m_LocalRotation.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 114738439059648026, guid: 9c48d4101c920ef47a787da13f097d90,
+        type: 3}
+      propertyPath: musicAudioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: 62f79c5c336c1b848a27124d9ce71cfc, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9c48d4101c920ef47a787da13f097d90, type: 3}
 --- !u!1 &2003153724
